@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Eduardo 'Yoshi' Hirata-Miyasaki/@Edyoshikun"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Eduardo 'Yoshi' Hirata-Miyasaki"
+description              : &description "Graduate Student UC Santa Cruz SaraLab"
+url                      : https://edyoshikun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "edyoshikun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Eduardo 'Yoshi' Hirata-Miyasaki"
+  avatar           : "profile.jpg"
+  bio              : "Eduardo 'Yoshi' Hirata is a PhD student at UC Santa Cruz developing new imaging technologies for neural imaging. He is part of the SaraLab were he is currently developing the 25 Multi-Focal Microscope for fast, live, and 3D recording of biological organisms. 
+                      Eduardo moved to the Santa Cruz in 2014 and graduated with honors from UC Santa Cruz in Spring 2018 with a B.S. Bioengineering and a minor in electrical engineering. As an undergraduate, Eduardo was a recipient of two research awards ( Sara Mathews's Award and the Undergraduate Dean's Award)."
+  location         : "Santa Cruz, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=imWLHRsAAAAJ&hl=en"
+  email            : 
+  researchgate     :  "https://www.researchgate.net/profile/Eduardo_Hirata_Miyasaki"
+  uri              :  "https://saralab.soe.ucsc.edu/"
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           :  "https://www.flickr.com/"
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/edyoshikun"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://linkedin.com/in/edhiratam?trk=hp-identity-photo"
+  orcid            : "https://orcid.org/0000-0002-1016-2447"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@edyoshikun"
   vine             :
   weibo            :
   xing             :
