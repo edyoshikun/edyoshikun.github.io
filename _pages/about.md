@@ -19,4 +19,4 @@ Current Project
 
 For more info
 ------
-More info about Ed 'Yoshi' visit [his LinkedIn](https://www.linkedin.com/in/edhiratam/?trk=hp-identity-photo) and [Google Scholar] (https://scholar.google.com/citations?user=imWLHRsAAAAJ&hl=en). 
+More info about Ed 'Yoshi' visit his [LinkedIn](https://www.linkedin.com/in/edhiratam/?trk=hp-identity-photo) and [Google Scholar](https://scholar.google.com/citations?user=imWLHRsAAAAJ&hl=en). 
