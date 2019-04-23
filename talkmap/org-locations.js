@@ -7,10 +7,10 @@ var addressPoints = [
   [
     "Santa Cruz, California",
     36.9741,
-    122.0308
+    -122.0308
   ],
   [
     "Baltimore, MA",
-    39.2904, -76.6122
+    39.2904, 76.6122
   ]
 ];
