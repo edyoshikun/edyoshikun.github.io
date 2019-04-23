@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Eduardo 'Yoshi' Hirata-Miyasaki"
   avatar           : "profile.jpg"
-  bio              : "Eduardo 'Yoshi' Hirata is a PhD student at UC Santa Cruz developing new imaging technologies for neural imaging. He is part of the SaraLab were he is currently developing the 25 Multi-Focal Microscope for fast, live, and 3D recording of biological organisms. 
-                      Eduardo moved to the Santa Cruz in 2014 and graduated with honors from UC Santa Cruz in Spring 2018 with a B.S. Bioengineering and a minor in electrical engineering. As an undergraduate, Eduardo was a recipient of two research awards ( Sara Mathews's Award and the Undergraduate Dean's Award)."
+  bio              : "Graduate Student at UC Santa Cruz Sara Lab developing new imaging techniques based on multifocal and super resolution microscopy."
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :  "https://www.flickr.com/"
+  flickr           : # "https://www.flickr.com/"
   facebook         :
   foursquare       :
   github           : "https://github.com/edyoshikun"
