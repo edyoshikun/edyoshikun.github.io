@@ -15,7 +15,7 @@ Eduardo moved to the Santa Cruz in 2014 and graduated with honors from UC Santa 
 Current Project
 ======
 25-Plane Multifocus Microscope with Camera Array
-![Editing a markdown file for a talk](/images/M25.jpeg)
+![Editing a markdown file for a talk](/images/M25.jpg)
 
 For more info
 ------
