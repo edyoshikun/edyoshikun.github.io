@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Eduardo 'Yoshi' Hirata-Miyasaki is a PhD student at UC Santa Cruz developing new imaging technologies for neural imaging. He is part of the SaraLab where he is currently developing the 25 Multi-Focal Microscope for fast, live, and 3D recording of biological organisms. 
+Eduardo 'Yoshi' Hirata-Miyasaki is a Ph.D. Candidate at UC Santa Cruz developing new imaging technologies for neural imaging. He is part of the SaraLab where he is currently developing the 25 Multi-Focal Microscope for fast, live, and 3D recording of biological organisms. 
 
 While not in lab, Ed 'Yoshi' enjoys going on hikes and exploring new places. He's favorite drinks are coffee, beer, and mate. And on a good day he is an amateur photographer!
 
