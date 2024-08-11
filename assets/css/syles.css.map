@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "file": "styles.css",
+    "sources": ["styles.scss"],
+    "sourcesContent": [
+      "$primary-color: #333;\n\nbody {\n  color: $primary-color;\n}\nh1 {\n  font-size: 2rem;\n}\n"
+    ],
+    "names": [],
+    "mappings": "AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA"
+  }
+  

@@ -1,0 +1,142 @@
+/* Base styles for dark theme */
+body {
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text color */
+    font-family: 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header styles */
+.site-header {
+    background-color: #1f1f1f; /* Slightly lighter dark background */
+    color: #e0e0e0; /* Light text color */
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.site-header .site-title {
+    text-decoration: none;
+    color: #e0e0e0; /* Light text color */
+}
+
+.site-header .site-title:hover {
+    text-decoration: underline;
+}
+
+/* Default link color */
+a {
+    text-decoration: none;
+    color: #1DA1F2; /* Twitter blue for links */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: #e0e0e0; /* Light text color on hover */
+}
+
+a:active {
+    color: #b0b0b0; /* Slightly darker shade when the link is active */
+}
+
+/* Profile picture styles */
+.profile-picture {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.profile-picture img {
+    border-radius: 50%;
+    border: 2px solid #000000; /* Dark border color */
+}
+
+/* Profile section styles */
+.profile {
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 1rem;
+}
+
+.profile p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* News section styles */
+.news {
+    margin-top: 2rem;
+    text-align: left;
+    max-width: 800px;
+    margin: 2rem auto; /* Centers the news section within the container */
+}
+
+.news ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.news li {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+/* Gallery container */
+.gallery {
+    margin-top: 2rem;
+}
+
+.gallery h2 {
+    text-align: left; /* Aligns gallery heading to the left */
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Gallery grid layout */
+.gallery-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem; /* Space between items */
+    justify-content: center; /* Center-aligns gallery items */
+}
+
+/* Gallery item styles */
+.gallery-item {
+    position: relative; /* Required for absolute positioning of caption */
+    background-color: #1f1f1f; /* Dark background for items */
+    border: 1px solid #333; /* Border color to match dark theme */
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden;
+    text-align: center; /* Center-aligns text inside items */
+    padding: 0.5rem;
+    max-width: 320px; /* Set a max-width for consistency */
+}
+
+/* Ensure media elements fit their container while maintaining aspect ratio */
+.gallery-item img,
+.gallery-item video {
+    width: 100%; /* Full width of the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove extra space below media */
+    border-radius: 4px; /* Rounded corners for media */
+}
+
+/* Hide caption by default */
+.gallery-item p {
+    position: absolute; /* Position caption absolutely within the item */
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent dark background */
+    color: #e0e0e0; /* Light text color */
+    padding: 0.5rem;
+    display: none; /* Hide caption initially */
+    font-size: 0.875rem; /* Slightly smaller font size for captions */
+    box-sizing: border-box; /* Include padding in total width/height */
+}
+
+/* Show caption on hover */
+.gallery-item:hover p {
+    display: block; /* Show caption on hover */
+}
