@@ -140,3 +140,18 @@ a:active {
 .gallery-item:hover p {
     display: block; /* Show caption on hover */
 }
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+    .site-nav a {
+        display: inline-block;
+        margin: 0.25rem 0;
+        font-size: 0.9rem;
+    }
+    .gallery-item {
+        max-width: 100%;
+    }
+    .profile {
+        padding: 0 0.5rem;
+    }
+}

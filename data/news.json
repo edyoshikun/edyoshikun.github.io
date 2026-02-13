@@ -1,0 +1,176 @@
+[
+  {
+    "date": "2025-06-23",
+    "text": "Updated our preprint on \"DynaCLR: Contrastive Learning of Cellular Dynamics with Temporal Regularization\" adding knowledge distillation and pseudotime alignment",
+    "url": "https://arxiv.org/abs/2410.11281",
+    "source": "manual"
+  },
+  {
+    "date": "2025-06-23",
+    "text": "Our \"Robust virtual staining of landmark organelles with Cytoland\" is now available on Nature Machine Intelligence",
+    "url": "https://www.nature.com/articles/s42256-025-01046-2",
+    "source": "manual"
+  },
+  {
+    "date": "2025-03-20",
+    "text": "Our paper \"Mapping virus infection dynamics across scales with computational imaging\" published in High-Throughput Biophotonics: Imaging, Spectroscopy, and Beyond X",
+    "url": "https://doi.org/10.1117/12.3043999",
+    "source": "semantic_scholar",
+    "paper_id": "33f936c7ca80e9796aec39068c810ab09bb3e958"
+  },
+  {
+    "date": "2025-03-20",
+    "text": "Our paper \"3D computational imaging of dry mass and orientation\" published in Quantitative Phase Imaging XI",
+    "url": "https://doi.org/10.1117/12.3051988",
+    "source": "semantic_scholar",
+    "paper_id": "954bd3afa65cb0e46eb5bb923ec5cf354ae0bf3f"
+  },
+  {
+    "date": "2025-01-31",
+    "text": "Presented applications of virtual staining in zebrafish neuromast titled \"Mapping cell state dynamics with AI-enabled live cell imaging\" at Photonics West 2025, High-throughput Biophotonics session.",
+    "url": "https://doi.org/10.1117/12.3051857",
+    "source": "manual"
+  },
+  {
+    "date": "2024-09-23",
+    "text": "Our preprint on High-speed 3D Imaging with 25-Camera Multifocus Microscope",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.09.23.614351v1",
+    "source": "manual"
+  },
+  {
+    "date": "2024-09-20",
+    "text": "Our demo for 2D Virtual Staining is now up on HuggingFace",
+    "url": "https://huggingface.co/spaces/compmicro-czb/VirtualStaining",
+    "source": "manual"
+  },
+  {
+    "date": "2024-09-03",
+    "text": "Our paper \"Ultrack: pushing the limits of cell tracking across biological scales\" published in bioRxiv",
+    "url": "https://doi.org/10.1038/s41592-025-02778-0",
+    "source": "semantic_scholar",
+    "paper_id": "0d12d6916d2b1aec0303986e60677151fcfa64b0"
+  },
+  {
+    "date": "2024-08-20",
+    "text": "I'll be teaching the image-translation section at the <a href=\"https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/dlmbl-deep-learning-microscopy-image-analysis\">DL@MBL course</a>. Checkout the exercise if you are interested <a href=\"https://github.com/dlmbl/DL-MBL-2024\">here</a>",
+    "url": null,
+    "source": "manual"
+  },
+  {
+    "date": "2024-08-09",
+    "text": "Our work on high-throughput 4D imaging and analysis is up in PNAS Nexus",
+    "url": "https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae323/7731083",
+    "source": "manual"
+  },
+  {
+    "date": "2024-07-01",
+    "text": "Our paper \"High Throughput Imaging and Analysis of Intracellular Dynamics with Correlative Label-Free and Fluorescence Microscopy\" published in Microscopy and Microanalysis",
+    "url": "https://doi.org/10.1093/mam/ozae044.174",
+    "source": "semantic_scholar",
+    "paper_id": "c72889b8e05fb83015f68eb879110f95caca79ba"
+  },
+  {
+    "date": "2024-06-03",
+    "text": "Our preprint on robust virtual staining of landmark organelles is online",
+    "url": "https://www.biorxiv.org/content/10.1101/2024.05.31.596901v3",
+    "link_text": "bioRxiv",
+    "source": "manual"
+  },
+  {
+    "date": "2024-01-01",
+    "text": "Our paper \"waveOrder: generalist framework for label-agnostic computational microscopy\" published in arXiv.org",
+    "url": "https://doi.org/10.48550/arXiv.2412.09775",
+    "source": "semantic_scholar",
+    "paper_id": "0cd0b132374d0d17172631bd6d176c52c6628439"
+  },
+  {
+    "date": "2023-12-19",
+    "text": "Our preprint on high-throughput 4D imaging and analysis of the molecular and physical architecture of cells is online",
+    "url": "https://www.biorxiv.org/content/10.1101/2023.12.19.572435v2",
+    "link_text": "bioRxiv",
+    "source": "manual"
+  },
+  {
+    "date": "2023-09-19",
+    "text": "Moved to the peninsula to join the <a href=\"https://www.czbiohub.org/comp-micro/\" target=\"_blank\">Computational Microscopy Platform</a> at the <a href=\"https://www.czbiohub.org/sf/\" target=\"_blank\">Chan Zuckerberg Biohub San Francisco</a> as R&D Engineer.",
+    "url": null,
+    "source": "manual"
+  },
+  {
+    "date": "2022-08-22",
+    "text": "Successfully defended my <a href=\"https://escholarship.org/uc/item/0r83j8zw\" target=\"_blank\">dissertation</a> at the <a href=\"https://engineering.ucsc.edu/\" target=\"_blank\">Jack Baskin School of Engineering</a>, University of California Santa Cruz.",
+    "url": null,
+    "source": "manual"
+  },
+  {
+    "date": "2022-03-11",
+    "text": "Our work on fast volumetric multifocus structured illumination microscopy is online in Biomedical Optics Express",
+    "url": "https://opg.optica.org/boe/viewmedia.cfm?uri=boe-15-4-2281&html=true",
+    "source": "manual"
+  },
+  {
+    "date": "2022-01-01",
+    "text": "Our paper \"Image Reconstruction for live 3D Multifocus Super-Resolution Microscopy\" published in Imaging and Applied Optics Congress 2022 (3D, AOA, COSI, ISA, pcAOP)",
+    "url": "https://doi.org/10.1364/3d.2022.3w1a.3",
+    "source": "semantic_scholar",
+    "paper_id": "5d4f0063cd8e88a0c42753fc8175bf3a09d95152"
+  },
+  {
+    "date": "2022-01-01",
+    "text": "Our paper \"Ultrafast Live 3D Imaging with 25-plane Camera Array Multifocus Microscopy\" published in Imaging and Applied Optics Congress 2022 (3D, AOA, COSI, ISA, pcAOP)",
+    "url": "https://doi.org/10.1364/isa.2022.iw1c.2",
+    "source": "semantic_scholar",
+    "paper_id": "e6e2aa4d4ef102dbf7a476fdbbad29cd0f7d6367"
+  },
+  {
+    "date": "2020-05-01",
+    "text": "Our paper \"Camera-Array 25-Plane Multifocus Microscope for Ultrafast Live 3D Imaging\" published in Conference on Lasers and Electro-Optics",
+    "url": "https://doi.org/10.1364/cleo_at.2020.jw3p.4",
+    "source": "semantic_scholar",
+    "paper_id": "ccf96c1601c62e78d6cd066ff8928a612dee58cd"
+  },
+  {
+    "date": "2020-03-09",
+    "text": "Our paper \"25 plane multifocus microscopy for fast and live 3D imaging (Conference Presentation)\" is available",
+    "url": "https://doi.org/10.1117/12.2550979",
+    "source": "semantic_scholar",
+    "paper_id": "d047bce5934bbe2ea4db32aa1e5fb53eda239a3e"
+  },
+  {
+    "date": "2019-09-20",
+    "text": "Awarded the Fall 2019 travel award to present my work at the \"Seeing is Believing: Imaging the Molecular Processes of Life\" in Heidelberg, Germany.",
+    "url": null,
+    "source": "manual"
+  },
+  {
+    "date": "2019-02-01",
+    "text": "Our paper \"Simultaneous 25 Plane 3D Live Imaging System for Neural Circuits\" published in Biophysical Journal",
+    "url": "https://doi.org/10.1016/j.bpj.2018.11.2378",
+    "source": "semantic_scholar",
+    "paper_id": "6fb33f15b7c1b6e141e404213b7b8ba46def4eae"
+  },
+  {
+    "date": "2018-06-26",
+    "text": "Starting my Ph.D. in the Electrical and Computer Engineering department at UCSC with Sara Abrahamsson <a href=\"https://saralab.soe.ucsc.edu/\">SaraLab</a> developing fast and aberration-free multi-focus microscopes.",
+    "url": null,
+    "source": "manual"
+  },
+  {
+    "date": "2018-05-20",
+    "text": "Awarded the 2018 <a href=\"https://dca.ue.ucsc.edu/dca/winners/2018\" target=\"_blank\">Dean's Award</a> for our <a href=\"https://dca.ue.ucsc.edu/dca/winners/2018/989\" target=\"_blank\">\"Automatized Surface Functionalization for Diagnostic Systems\"</a> project with the <a href=\"https://www.yaniklab.science/\" target=\"_blank\">Yanik Group</a>.",
+    "url": null,
+    "source": "manual"
+  },
+  {
+    "date": "2016-03-15",
+    "text": "Awarded the 2016 Sara Matthews Award from UC Santa Cruz for scholarly excellence and campus involvement.",
+    "url": null,
+    "source": "manual"
+  },
+  {
+    "date": "2014-09-01",
+    "text": "Moved to the U.S. to pursue my B.S. in Bioengineering at the <a href=\"https://engineering.ucsc.edu/\" target=\"_blank\">Jack Baskin School of Engineering</a> at the University of California Santa Cruz.",
+    "url": null,
+    "source": "manual"
+  }
+]
