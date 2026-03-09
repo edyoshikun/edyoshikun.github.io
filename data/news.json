@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-03-06",
+    "text": "Our paper \"Learning the parameters of shift-variant phase and fluorescence deconvolution for high-throughput computational microscopy\" published in High-Throughput Biophotonics: Imaging, Spectroscopy, and Beyond XI",
+    "url": "https://doi.org/10.1117/12.3079916",
+    "source": "semantic_scholar",
+    "paper_id": "3628747beae91e1635f095b7355856e1da228b9f"
+  },
+  {
+    "date": "2026-03-05",
+    "text": "Our paper \"DynaTrack: label-agnostic smart tracking for mapping dynamics of organ development\" published in High-Throughput Biophotonics: Imaging, Spectroscopy, and Beyond XI",
+    "url": "https://doi.org/10.1117/12.3080090",
+    "source": "semantic_scholar",
+    "paper_id": "02cffc53e5df2cf8446ad50be331fa728ad39948"
+  },
+  {
     "date": "2025-06-23",
     "text": "Updated our preprint on \"DynaCLR: Contrastive Learning of Cellular Dynamics with Temporal Regularization\" adding knowledge distillation and pseudotime alignment",
     "url": "https://arxiv.org/abs/2410.11281",
