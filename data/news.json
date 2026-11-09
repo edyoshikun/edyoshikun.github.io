@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-02",
+    "text": "Our paper \"The DynaCell Evaluation Suite for Dynamic 3D Virtual Staining of Live Cells\" is available",
+    "url": "https://arxiv.org/abs/2611.02324",
+    "source": "semantic_scholar",
+    "paper_id": "42a1932687f93cc5e1a16d9fbea18dfa34b63f66"
+  },
+  {
     "date": "2026-06-02",
     "text": "Our paper \"A multimodal perturbation atlas defines the phenotypic resolution of cellular morphology\" published in bioRxiv",
     "url": "https://doi.org/10.64898/2026.06.01.728087",
@@ -52,6 +59,13 @@
     "url": "https://doi.org/10.1117/12.3051988",
     "source": "semantic_scholar",
     "paper_id": "954bd3afa65cb0e46eb5bb923ec5cf354ae0bf3f"
+  },
+  {
+    "date": "2025-03-20",
+    "text": "Our paper \"Enabling long-term studies of developing organs in zebrafish through quantitative phase imaging and virtual staining\" published in Quantitative Phase Imaging XI",
+    "url": "https://doi.org/10.1117/12.3044024",
+    "source": "semantic_scholar",
+    "paper_id": "1d8c47a83c6bd8b82c6663403d76dce106efc67f"
   },
   {
     "date": "2025-01-31",
